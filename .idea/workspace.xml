@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e7f4338-fcf0-4aee-8fde-52dfb8258243" name="Changes" comment="" />
+    <list default="true" id="1e7f4338-fcf0-4aee-8fde-52dfb8258243" name="Changes" comment="update main.go and services.go">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gotodo.db" beforeDir="false" afterPath="$PROJECT_DIR$/gotodo.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,56 +53,6 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build simpleTelegramService">
-    <configuration name="go build simpleTelegramService" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goRestApi" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="simpleTelegramService" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestParser in github.com/go-chat-bot/bot" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="goRestApi" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="github.com/go-chat-bot/bot" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestParser\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go test github.com/go-chat-bot/bot" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="goRestApi" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="github.com/go-chat-bot/bot" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gobench github.com/go-chat-bot/bot" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="goRestApi" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="github.com/go-chat-bot/bot" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gobench" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Go Build.go build simpleTelegramService" />
-        <item itemvalue="Go Test.gobench github.com/go-chat-bot/bot" />
-        <item itemvalue="Go Test.go test github.com/go-chat-bot/bot" />
-        <item itemvalue="Go Test.TestParser in github.com/go-chat-bot/bot" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -121,6 +76,10 @@
       <path value="$PROJECT_DIR$/SimpleTelegramServiceBot" />
       <path value="$PROJECT_DIR$/ChannelBot" />
     </ignored-roots>
+    <MESSAGE value="todo rest api" />
+    <MESSAGE value="update go.mod" />
+    <MESSAGE value="update main.go and services.go" />
+    <option name="LAST_COMMIT_MESSAGE" value="update main.go and services.go" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
