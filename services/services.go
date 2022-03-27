@@ -6,7 +6,7 @@ import (
 	"strconv"
 
 	"github.com/labstack/echo"
-	"gogo/config"
+	"goRestApi/config"
 )
 
 type Todo struct {
