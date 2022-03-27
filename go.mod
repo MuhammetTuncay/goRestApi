@@ -1,4 +1,4 @@
-module gogo
+module goRestApi
 
 go 1.18
 
