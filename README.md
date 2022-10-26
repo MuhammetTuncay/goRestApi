@@ -3,7 +3,7 @@
 POST localhost:3200/todos todo oluşturur (insert)
 
 {
-    "Detail":"Go da bir numara olana kadar çalışacağım!",
+    "Detail":"Go da bir numara!",
     "Completed":false
 }
 
